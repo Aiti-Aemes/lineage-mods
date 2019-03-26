@@ -1,0 +1,7 @@
+id=lineage-mods
+name=Lineage OS Mods
+version=v1
+versionCode=1
+author=Crescendo
+description=Some compilation of mods for Lineage OS.
+minMagisk=17000
