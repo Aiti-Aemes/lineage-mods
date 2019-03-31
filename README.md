@@ -4,3 +4,4 @@
 2. Restart magiskhide to fix the CPU hog post-boot.
 3. Enable Camera2API, EIS, and Zero Shutter Lag.
 4. Thermal-engine mods by ByBlaCk @XDA.
+5. Remove GoogleCameraLegacy.

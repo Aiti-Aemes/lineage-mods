@@ -40,6 +40,7 @@ LATESTARTSERVICE=true
 # List all directories you want to directly replace in the system
 # Check the documentations for more info why you would need this
 REPLACE="
+/system/app/GoogleCameraLegacy
 "
 
 ##########################################################################################
