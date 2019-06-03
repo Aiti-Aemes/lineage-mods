@@ -11,3 +11,4 @@ persist.audio.vr.enable=true
 ro.opa.eligible_device=true
 ro.wallpapers_loc_request_suw=true
 ro.com.google.ime.theme_id=5
+vendor.camera.aux.packagelist=com.miui.cit
