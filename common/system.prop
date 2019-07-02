@@ -3,8 +3,8 @@
 # ro.sf.lcd_density=320
 persist.camera.HAL3.enabled=1
 persist.vendor.camera.HAL3.enabled=1
-persist.vendor.camera.stats.test=5
 persist.camera.stats.test=5
+persist.vendor.camera.stats.test=5
 persist.camera.eis.enabled=1
 camera.disable_zsl_mode=0
 persist.audio.vr.enable=true
