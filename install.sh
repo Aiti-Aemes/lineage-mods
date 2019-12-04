@@ -28,7 +28,7 @@ SKIPMOUNT=false
 PROPFILE=true
 
 # Set to true if you need post-fs-data script
-POSTFSDATA=false
+POSTFSDATA=true
 
 # Set to true if you need late_start service script
 LATESTARTSERVICE=false
@@ -123,6 +123,8 @@ on_install() {
   # Extend/change the logic to whatever you want
   ui_print "- Extracting module files"
   unzip -o "$ZIPFILE" 'system/*' -d $MODPATH >&2
+  
+  rm $MODPATH/system/etc/security/cacerts/placeholder
 }
 
 # Only some special files require specific permissions
