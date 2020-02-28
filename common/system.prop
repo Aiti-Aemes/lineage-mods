@@ -1,13 +1,9 @@
 # This file will be read by resetprop
-persist.camera.HAL3.enabled=1
-persist.vendor.camera.HAL3.enabled=1
-persist.camera.eis.enabled=1
-camera.disable_zsl_mode=0
 persist.audio.vr.enable=true
 ro.opa.eligible_device=true
 ro.wallpapers_loc_request_suw=true
 ro.com.google.ime.theme_id=5
 vendor.camera.aux.packagelist=com.miui.cit,com.android.camera
-ro.build.description=natrium-user 9 PQ3A.190801.002 222b01a7ce release-keys
-ro.build.fingerprint=Xiaomi/natrium/natrium:9/PQ3A.190801.002/222b01a7ce:user/release-keys
-ro.vendor.build.fingerprint=Xiaomi/natrium/natrium:9/PQ3A.190801.002/222b01a7ce:user/release-keys
+ro.build.description=natrium-user 9 PQ3A.190801.002 c82b2f7276 release-keys
+ro.build.fingerprint=Xiaomi/natrium/natrium:9/PQ3A.190801.002/c82b2f7276:user/release-keys
+ro.vendor.build.fingerprint=Xiaomi/natrium/natrium:9/PQ3A.190801.002/c82b2f7276:user/release-keys
